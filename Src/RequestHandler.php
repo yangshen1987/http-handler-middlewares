@@ -29,6 +29,7 @@ class RequestHandler implements RequestHandlerInterface
 
     /**
      * @var integer
+     *
      */
     private $offset = 0;
 
